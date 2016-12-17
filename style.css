@@ -1,0 +1,199 @@
+
+body{
+	margin: 0;
+}
+header{
+	background:#fff;
+}
+header nav{
+	display: flex; 
+	justify-content: center
+}
+header nav ul{
+	    list-style: none;
+        margin: 0;padding: 0
+}
+header nav ul li{
+	    font-size: 20px;
+
+}
+
+header nav a{
+	color: #FFFFFF;
+}
+
+header nav a{
+	   color:#000; 
+	   text-decoration: none; 
+	   padding: 15px 30px; 
+	   display: inline-block;
+	   padding-top:30px;
+}
+header nav a:hover{
+	background:blue;
+	color:white;
+}
+header nav ul li{float: left;}
+.c{
+	background:#0E0E0E;
+	width: 100%;
+	color: #fff;
+	margin:right;
+}
+.s div img{
+	width: 70px;
+	height:64px;
+}
+.gm{
+	width:100%;
+}
+
+.head img {height: 500px}
+hr {width: 20%}
+
+.c img{
+	width: 50px;
+	height:45px;
+
+}
+.le{
+	font font-family: 'open sans';
+	font-size: 25px;
+	color: #000000;
+	text-align:center;
+	margin-top: 70px 
+}
+.CBD{
+	font-size: 20px;
+	padding-top:30px;
+}
+.clear {
+	clear:both; 
+}
+
+#content {
+	width:80%; 
+	margin:0 auto;
+}
+
+#content {
+	width:80%; 
+	margin:0 auto;
+}
+
+#content .banner{
+	width:50%;
+    float:left;
+}
+
+#content .banner .pad{
+	border:solid 2px #ccc;
+	margin-top: 20px;
+	margin-right: 20px;
+	padding:20px
+
+}
+img{
+	height:100%;
+	width: 100%;
+}
+
+
+
+footer{
+	background:#0E0E0E;
+	width: 100%;
+	color: black;
+	margin-top: 15px;
+}
+
+iframe{
+	margin-left: 150px;
+}
+
+footer li {
+	list-style: none; margin: 0; color: #fff
+}
+footer li a {color: #fff; text-decoration: none;}
+
+.fb{
+	margin-left: 150px;
+}
+
+footer ul {
+	width:20%;
+	float: left;
+	margin top: 20px;
+	margin-left: 15px;
+	margin-right: 0px;
+
+}
+.e{
+	height:259px
+}
+.g{
+	height:330px;
+}
+
+.q{
+	height: 110px;
+	width: 150px;
+	margin: 20px 600px auto;
+}
+.q img{
+    text-align: center;
+
+}
+.col4: first-child > .pad {padding-left: 0px;
+}
+.col4: last-child > .pad {padding-right: 0px;
+}
+.co{
+	font-size: 25px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	margin: 0 auto;
+	width: 1100px;
+}
+.form{
+	width: 1100px;
+	margin: 0 auto;
+}
+.form form: {
+	width: 550px;
+
+}
+.textfrom{
+	height: 30px;
+	width: 300px;
+}
+.copyright{
+	background-color:#21252B;
+	margin-top: 0px;
+	font-size: 18px;
+	padding-top: 10px;
+	float:left;
+	width: 100%;
+}
+.copyright  li{
+	text-decoration: none;
+	color: #333;
+}
+.copyright a{
+	text-decoration: none;
+	color: #0dc0c0;
+}
+.width{
+	width: 1100px;
+	margin: 0 auto;
+}
+.powered li{
+	list-style: none;
+	color: #333;
+}
+.powered a{
+	text-decoration: none;
+	color: #0dc0c0;
+}
+
+.container {margin: 0 auto;width: 1024px}
